@@ -1,0 +1,10 @@
+{
+  "name": "NV - Sassy Bilingual AI Voice Assistant",
+  "description": "Real-time, bilingual (Hindi & English / Hinglish) voice-to-voice AI companion named NV featuring a sassy, witty, and highly engaging persona.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
